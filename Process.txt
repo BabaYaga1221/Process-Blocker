@@ -1,0 +1,3 @@
+allow
+{ brave.exe , explorer.exe , Code.exe , WindowsTerminal.exe }
+{ notepad.exe , wordpad.exe , Taskmgr.exe }
