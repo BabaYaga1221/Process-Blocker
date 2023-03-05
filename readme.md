@@ -43,7 +43,7 @@ block
 { brave.exe , explorer.exe , Code.exe , WindowsTerminal.exe }
 { notepad.exe , wordpad.exe , Taskmgr.exe }
 ```
-
+#
 Open the windows terminal in the same folder and type -
 ```
 $ cpp processBlocker.cpp -o processBlocker
