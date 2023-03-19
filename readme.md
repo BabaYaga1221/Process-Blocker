@@ -46,7 +46,7 @@ block
 #
 Open the windows terminal in the same folder and type -
 ```
-$ cpp processBlocker.cpp -o processBlocker
+$ g++ processBlocker.cpp -o processBlocker
 $ ./processBlocker.exe
 ```
 
